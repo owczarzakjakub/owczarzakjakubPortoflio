@@ -20,13 +20,18 @@ Poza nauką języków programowania poznaję również **proces projektowania op
 #### to repozytorium zawiera zbiór mniejszych projektów oraz ćwiczeń z lekcji
 https://github.com/owczarzakjakub/csharp 
 
+
 #### program odwzorowujący prosty system bankowy
 https://github.com/owczarzakjakub/BankSystemProject
+
+
 
 ### HTML
 
 #### repozytorium zawiera zbiór mniejszych projektów oraz ćwiczeń z lekcji
 https://github.com/owczarzakjakub/html-css-php
+
+
 
 ### Projektowanie Oprogramowania
 
