@@ -17,12 +17,18 @@ Poza nauką języków programowania poznaję również **proces projektowania op
 
 ### C#
 
-_Tutaj wklej linki do projektów w C#_
+#### to repozytorium zawiera zbiór mniejszych projektów oraz ćwiczeń z lekcji
+https://github.com/owczarzakjakub/csharp 
+
+#### program odwzorowujący prosty system bankowy
+https://github.com/owczarzakjakub/BankSystemProject
 
 ### HTML
 
-_Tutaj wklej linki do projektów w HTML/CSS_
+#### repozytorium zawiera zbiór mniejszych projektów oraz ćwiczeń z lekcji
+https://github.com/owczarzakjakub/html-css-php
 
 ### Projektowanie Oprogramowania
 
-_Tutaj wklej linki do projektów, w których wykorzystałeś proces projektowania oprogramowania_
+#### projekt ktorego celem zaprojektowanie aplikacji (w tym przypadku dla seniorów)
+https://github.com/owczarzakjakub/SeniorekApp-Projektowanie-aplikacji
